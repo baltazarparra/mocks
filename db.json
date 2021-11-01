@@ -1,7 +1,4 @@
 {
-    "scheduledMatchesEndDate": "2021-08-18T15:16:26.505Z",
-    "scheduledMatchesStartDate": "2021-08-18T15:16:26.505Z",
-    "maxDateForPlayersToScheduleAMatch": "2021-08-18T15:16:26.505Z",
     "tournament": {
         "id": 1,
         "name": "Meu Primeiro Campê",
@@ -11,6 +8,9 @@
         "slots": 2,
         "mode": 2,
         "modality": "REGULAR",
+        "scheduledMatchesEndDate": "2021-08-18T15:16:26.505Z",
+        "scheduledMatchesStartDate": "2021-08-18T15:16:26.505Z",
+        "maxDateForPlayersToScheduleAMatch": "2021-08-18T15:16:26.505Z",
         "rule": {
             "url": "https://gamersclub.com.br/"
         },
