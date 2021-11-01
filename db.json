@@ -1,0 +1,438 @@
+{
+    "scheduledMatchesEndDate": "2021-08-18T15:16:26.505Z",
+    "scheduledMatchesStartDate": "2021-08-18T15:16:26.505Z",
+    "maxDateForPlayersToScheduleAMatch": "2021-08-18T15:16:26.505Z",
+    "tournament": {
+        "id": 1,
+        "name": "Meu Primeiro Campê",
+        "description": "<p>Meu camp&ecirc; minhas regras</p>",
+        "startDate": "2021-10-08T19:45:53.000Z",
+        "prize": "Um Queijo",
+        "slots": 2,
+        "mode": 2,
+        "modality": "REGULAR",
+        "rule": {
+            "url": "https://gamersclub.com.br/"
+        },
+        "metadata": {
+            "showSeeds": false,
+            "hasMapVeto": false,
+            "hasThirdPlace": false,
+            "maxReplacements": 2,
+            "defaultMatchData": {
+                "matchFormat": "BO1"
+            }
+        }
+    },
+    "matchFormat": "BO1",
+    "metadata": [
+        {
+            "map": {
+                "url": "https://cdn.gamersclub.com.br/assets/images/bg-bind.png",
+                "name": "Bind"
+            },
+            "defensiveTeamId": 1,
+            "offensiveTeamId": 2
+        }
+    ],
+    "matchType": "Bracket Stage",
+    "startDate": "2021-10-05T19:54:46.000Z",
+    "teamA": {
+        "id": 1,
+        "name": "TEAM 1",
+        "tag": "T1",
+        "owner": {
+            "id": 1,
+            "nickname": "usr",
+            "avatar": "",
+            "teamRole": 1,
+            "metadata": {
+                "tag": "BR1",
+                "riotId": "Allison.Thiel84"
+            }
+        },
+        "game": {
+            "id": 4,
+            "name": "Valorant",
+            "slug": "valorant"
+        },
+        "members": [
+            {
+                "id": 1,
+                "nickname": "usr",
+                "avatar": "",
+                "teamRole": 1,
+                "metadata": {
+                    "tag": "BR1",
+                    "riotId": "Allison.Thiel84"
+                }
+            },
+            {
+                "id": 2,
+                "nickname": "Nelle44",
+                "avatar": "",
+                "teamRole": 2,
+                "metadata": {
+                    "tag": "BR1",
+                    "riotId": "Kaitlyn_Cassin"
+                }
+            },
+            {
+                "id": 3,
+                "nickname": "Luella_Walker",
+                "avatar": "",
+                "teamRole": 2,
+                "metadata": {
+                    "tag": "BR1",
+                    "riotId": "Aaron_Fadel"
+                }
+            },
+            {
+                "id": 4,
+                "nickname": "Elva_Gottlieb",
+                "avatar": "",
+                "teamRole": 2,
+                "metadata": {
+                    "tag": "BR1",
+                    "riotId": "Jena.Mosciski99"
+                }
+            },
+            {
+                "id": 5,
+                "nickname": "Cruz_Spencer",
+                "avatar": "",
+                "teamRole": 2,
+                "metadata": {
+                    "tag": "BR1",
+                    "riotId": "Mortimer_Crona39"
+                }
+            },
+            {
+                "id": 6,
+                "nickname": "Herta_Quigley",
+                "avatar": "",
+                "teamRole": 3,
+                "metadata": {
+                    "tag": "BR1",
+                    "riotId": "Newell_Schaefer97"
+                }
+            },
+            {
+                "id": 7,
+                "nickname": "Akeem.Murazik13",
+                "avatar": "",
+                "teamRole": 3,
+                "metadata": {
+                    "tag": "BR1",
+                    "riotId": "Tristin_Beer9"
+                }
+            }
+        ],
+        "remainingReplacements": 2
+    },
+    "teamB": {
+        "id": 2,
+        "name": "TEAM 2",
+        "tag": "T2",
+        "owner": {
+            "id": 8,
+            "nickname": "Willa.Lindgren50",
+            "avatar": "",
+            "teamRole": 1,
+            "metadata": {
+                "tag": "BR1",
+                "riotId": "Serenity_Wuckert"
+            }
+        },
+        "game": {
+            "id": 4,
+            "name": "Valorant",
+            "slug": "valorant"
+        },
+        "members": [
+            {
+                "id": 8,
+                "nickname": "Willa.Lindgren50",
+                "avatar": "",
+                "teamRole": 1,
+                "metadata": {
+                    "tag": "BR1",
+                    "riotId": "Serenity_Wuckert"
+                }
+            },
+            {
+                "id": 9,
+                "nickname": "Jorge28",
+                "avatar": "",
+                "teamRole": 2,
+                "metadata": {
+                    "tag": "BR1",
+                    "riotId": "Vernon.Ortiz"
+                }
+            },
+            {
+                "id": 10,
+                "nickname": "Mireya29",
+                "avatar": "",
+                "teamRole": 2,
+                "metadata": {
+                    "tag": "BR1",
+                    "riotId": "Chase.Lynch38"
+                }
+            },
+            {
+                "id": 11,
+                "nickname": "Ally16",
+                "avatar": "",
+                "teamRole": 2,
+                "metadata": {
+                    "tag": "BR1",
+                    "riotId": "Dan_Boyer91"
+                }
+            },
+            {
+                "id": 12,
+                "nickname": "Orion.Skiles24",
+                "avatar": "",
+                "teamRole": 2,
+                "metadata": {
+                    "tag": "BR1",
+                    "riotId": "Caleigh8"
+                }
+            },
+            {
+                "id": 13,
+                "nickname": "Leonel_Vandervort",
+                "avatar": "",
+                "teamRole": 3,
+                "metadata": {
+                    "tag": "BR1",
+                    "riotId": "Danielle79"
+                }
+            },
+            {
+                "id": 14,
+                "nickname": "Adolfo95",
+                "avatar": "",
+                "teamRole": 3,
+                "metadata": {
+                    "tag": "BR1",
+                    "riotId": "Nyasia.Price42"
+                }
+            }
+        ],
+        "remainingReplacements": 2
+    },
+    "teamAScore": 0,
+    "teamBScore": 0,
+    "teamACheckIn": false,
+    "teamBCheckIn": false,
+    "finished": false,
+    "rounds": [
+        {
+            "id": 1,
+            "winnerId": null,
+            "tournamentMatchId": 1,
+            "metadata": null,
+            "createdAt": "2021-10-05T19:49:46.431Z",
+            "updatedAt": "2021-10-06T13:45:30.000Z",
+            "wo": false,
+            "status": "PROCESSING",
+            "startDate": "2021-10-05T19:54:46.000Z"
+        }
+    ],
+    "game": {
+        "id": 4,
+        "slug": "valorant",
+        "name": "Valorant"
+    },
+    "status": "PROCESSING",
+    "teams": [
+        {
+            "id": 1,
+            "name": "TEAM 1",
+            "tag": "T1",
+            "owner": {
+                "id": 1,
+                "nickname": "usr",
+                "avatar": "",
+                "teamRole": 1,
+                "metadata": {
+                    "tag": "BR1",
+                    "riotId": "Allison.Thiel84"
+                }
+            },
+            "game": {
+                "id": 4,
+                "name": "Valorant",
+                "slug": "valorant"
+            },
+            "members": [
+                {
+                    "id": 1,
+                    "nickname": "usr",
+                    "avatar": "",
+                    "teamRole": 1,
+                    "metadata": {
+                        "tag": "BR1",
+                        "riotId": "Allison.Thiel84"
+                    }
+                },
+                {
+                    "id": 2,
+                    "nickname": "Nelle44",
+                    "avatar": "",
+                    "teamRole": 2,
+                    "metadata": {
+                        "tag": "BR1",
+                        "riotId": "Kaitlyn_Cassin"
+                    }
+                },
+                {
+                    "id": 3,
+                    "nickname": "Luella_Walker",
+                    "avatar": "",
+                    "teamRole": 2,
+                    "metadata": {
+                        "tag": "BR1",
+                        "riotId": "Aaron_Fadel"
+                    }
+                },
+                {
+                    "id": 4,
+                    "nickname": "Elva_Gottlieb",
+                    "avatar": "",
+                    "teamRole": 2,
+                    "metadata": {
+                        "tag": "BR1",
+                        "riotId": "Jena.Mosciski99"
+                    }
+                },
+                {
+                    "id": 5,
+                    "nickname": "Cruz_Spencer",
+                    "avatar": "",
+                    "teamRole": 2,
+                    "metadata": {
+                        "tag": "BR1",
+                        "riotId": "Mortimer_Crona39"
+                    }
+                },
+                {
+                    "id": 6,
+                    "nickname": "Herta_Quigley",
+                    "avatar": "",
+                    "teamRole": 3,
+                    "metadata": {
+                        "tag": "BR1",
+                        "riotId": "Newell_Schaefer97"
+                    }
+                },
+                {
+                    "id": 7,
+                    "nickname": "Akeem.Murazik13",
+                    "avatar": "",
+                    "teamRole": 3,
+                    "metadata": {
+                        "tag": "BR1",
+                        "riotId": "Tristin_Beer9"
+                    }
+                }
+            ],
+            "remainingReplacements": 2
+        },
+        {
+            "id": 2,
+            "name": "TEAM 2",
+            "tag": "T2",
+            "owner": {
+                "id": 8,
+                "nickname": "Willa.Lindgren50",
+                "avatar": "",
+                "teamRole": 1,
+                "metadata": {
+                    "tag": "BR1",
+                    "riotId": "Serenity_Wuckert"
+                }
+            },
+            "game": {
+                "id": 4,
+                "name": "Valorant",
+                "slug": "valorant"
+            },
+            "members": [
+                {
+                    "id": 8,
+                    "nickname": "Willa.Lindgren50",
+                    "avatar": "",
+                    "teamRole": 1,
+                    "metadata": {
+                        "tag": "BR1",
+                        "riotId": "Serenity_Wuckert"
+                    }
+                },
+                {
+                    "id": 9,
+                    "nickname": "Jorge28",
+                    "avatar": "",
+                    "teamRole": 2,
+                    "metadata": {
+                        "tag": "BR1",
+                        "riotId": "Vernon.Ortiz"
+                    }
+                },
+                {
+                    "id": 10,
+                    "nickname": "Mireya29",
+                    "avatar": "",
+                    "teamRole": 2,
+                    "metadata": {
+                        "tag": "BR1",
+                        "riotId": "Chase.Lynch38"
+                    }
+                },
+                {
+                    "id": 11,
+                    "nickname": "Ally16",
+                    "avatar": "",
+                    "teamRole": 2,
+                    "metadata": {
+                        "tag": "BR1",
+                        "riotId": "Dan_Boyer91"
+                    }
+                },
+                {
+                    "id": 12,
+                    "nickname": "Orion.Skiles24",
+                    "avatar": "",
+                    "teamRole": 2,
+                    "metadata": {
+                        "tag": "BR1",
+                        "riotId": "Caleigh8"
+                    }
+                },
+                {
+                    "id": 13,
+                    "nickname": "Leonel_Vandervort",
+                    "avatar": "",
+                    "teamRole": 3,
+                    "metadata": {
+                        "tag": "BR1",
+                        "riotId": "Danielle79"
+                    }
+                },
+                {
+                    "id": 14,
+                    "nickname": "Adolfo95",
+                    "avatar": "",
+                    "teamRole": 3,
+                    "metadata": {
+                        "tag": "BR1",
+                        "riotId": "Nyasia.Price42"
+                    }
+                }
+            ],
+            "remainingReplacements": 2
+        }
+    ]
+}
