@@ -247,7 +247,7 @@
             "slug": "valorant",
             "name": "Valorant"
         },
-        "status": "PROCESSING",
+        "status": "PENDING",
         "teams": [
             {
                 "id": 1,
